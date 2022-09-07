@@ -1,0 +1,25 @@
+.body{
+    background-image: url(./images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#imagengif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+body{
+    max-width: 500px;
+    margin: auto;
+}
+
+#primeralista{
+    text-align: center;
+    
+}
+h1{
+    text-align: center; 
+}
